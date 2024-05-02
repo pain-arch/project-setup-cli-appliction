@@ -5,7 +5,7 @@ const fs = require('fs');
 
 // Require third-party modules
 const projectStructure = {
-    "src": ['index.js'],
+    "src": ['app.js'],
     "public": ['index.html', 'style.css']
 };
 
